@@ -1,49 +1,57 @@
-<h2 align="left">Hi    ! My name is Alberto Junior , I'm Software Engineer .</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alberto-debug" />
 
-###
-
-
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Alberto+Junior!;" />
+</h1>
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2praWo3YXl1eXpyNTh6ejllbmpuZ2Fia244dGR4bDY1OGF5cWVlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.gif"  />
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-</div>
 
-###
+💬 Ask me about **Node.js, Java-SpringBoot, Java-Script and Python**
 
-<div align="left">
-  <a href="albertojunior848423803@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ 🌱 I’m currently learning **Go**
+  <!---
+
+⚡ Fun fact **I love God and I like playing the piano**
+--->
+ 
+<div align="left"> 
+  <a href="mailto:albertojunior848423803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/alberto-juniorr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/alberto-juniorr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
-###
+
+<h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=golang,nodejs,python,typescript,cpp,java,react,tailwind,redux" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,azure,mysql,postgres,redis,jenkins" />
+</div>
+
+
+<h3 align="left">⚡ Stats:</h3>
+<div align=left>
+
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alberto-debug&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  
+  <img width=390 src="https://streak-stats.demolab.com/?user=alberto-debug&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+</h3>
+
+
+
+
+
+
