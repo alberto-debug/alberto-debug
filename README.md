@@ -7,7 +7,6 @@
 <br/>
 
 💬 Ask me about **Node.js, Java Spring Boot, JavaScript, and Python**  
-🌱 I’m currently learning **Go**
 
 <!--
 ⚡ Fun fact: **I love God and I like playing the piano**
@@ -24,6 +23,17 @@
   </a>
 </div>
 
+<br/>
+
+- I’m currently learning **Java and spring boot, DevOps, Blockchain**
+
+- I’m looking to collaborate on **Java projects**
+
+- Ask me about **coreJava, OOP, SpringBoot**
+
+- How to reach me **albertomjunior1@gmail.com**
+
+- Fun fact **Charismatic**
 <br/>
 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
