@@ -50,7 +50,6 @@
 <div align="left">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=alberto-debug&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/><br/>
-  <img width="390" src="https://streak-stats.demolab.com/?user=alberto-debug&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <br/><br/>
