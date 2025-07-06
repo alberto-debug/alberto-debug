@@ -6,11 +6,7 @@
 
 <br/>
 
-💬 Ask me about **Node.js, Java Spring Boot, JavaScript, and Python**  
-
-<!--
-⚡ Fun fact: **I love God and I like playing the piano**
--->
+💬 Ask me about **Java Spring Boot,Node.js,Typescript,JavaScript,React and Python**  
 
 <br/>
 
