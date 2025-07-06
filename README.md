@@ -34,8 +34,9 @@
 - How to reach me **albertomjunior1@gmail.com**
 
 - Fun fact **Charismatic**
+  
 <br/>
-
+ 
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 
 <div align="left">
@@ -52,7 +53,8 @@
   <br/><br/>
 </div>
 
-<br/><br/>
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-dark&animation=grow_out_in&layout=samuel&font=Gabrielle&quoteType=random)
+
 <hr/>
 
 <h3 align="center">
