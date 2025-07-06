@@ -14,14 +14,15 @@
 
 <br/>
 
-<div align="left"> 
+<div align="left" gap: 50px;> 
   <a href="mailto:albertojunior848423803@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EB4432?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alberto-juniorr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
 
 <br/>
 
