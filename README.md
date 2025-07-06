@@ -32,8 +32,6 @@
 - Ask me about **coreJava, OOP, SpringBoot**
 
 - How to reach me **albertomjunior1@gmail.com**
-
-- Fun fact **Charismatic**
   
 <br/>
  
