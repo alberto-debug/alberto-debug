@@ -35,8 +35,8 @@
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,java,golang,csharp,nodejs,python,typescript,cpp,react,tailwind,redux," /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,dotnet,kubernetes,terraform,azure,mysql,postgres,redis,jenkins,linux" />
+  <img src="https://skillicons.dev/icons?i=spring,java,golang,cs,nodejs,python,typescript,cpp,react,tailwind,redux," /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,dotnet,terraform,azure,mysql,postgres,redis,jenkins,linux" />
 </div>
 
 <br/>
