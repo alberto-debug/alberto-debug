@@ -6,7 +6,7 @@
 
 <br/>
 
-💬 Ask me about **Java Spring Boot,Node.js,Typescript,JavaScript,React and Python**  
+💬 Ask me about **Java Spring Boot,C# .Net,Node.js,Typescript,JavaScript,React and Python**  
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-- I’m currently learning **Java and spring boot, DevOps, Blockchain**
+- I’m currently learning **Java, spring boot, And C# .Net**
 
 - I’m looking to collaborate on **Java projects**
 
@@ -35,7 +35,7 @@
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,java,golang,nodejs,python,typescript,cpp,react,tailwind,redux" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,java,golang,nodejs,python,typescript,cpp,react,tailwind,redux, C#, .Net" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,azure,mysql,postgres,redis,jenkins,linux" />
 </div>
 
